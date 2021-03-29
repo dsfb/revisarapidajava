@@ -1,0 +1,20 @@
+package br.com.enums.controller;
+
+public class ApresentaModelos {
+	
+	
+	public static void getModelos(Marcas marcas) {
+		
+		
+		if (marcas == Marcas.VOLKSWAGEM) {
+			System.out.println("Amarok");
+			System.out.println("UP");
+			System.out.println("Voyage");
+			
+		}
+		
+	}
+	
+	
+
+}

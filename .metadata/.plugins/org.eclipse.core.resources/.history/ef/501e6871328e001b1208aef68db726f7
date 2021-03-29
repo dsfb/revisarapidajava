@@ -1,0 +1,16 @@
+package revisao;
+
+public class Profissao {
+
+	public static void main(String[] args) {
+		
+		int num = 36;
+		String nome =  "anailson";
+		
+		
+		System.out.println("Desenvolvedor Java Full Stack", "Idade" + num + ,"Nome", + nome);
+		
+
+	}
+
+}
